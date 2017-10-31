@@ -1,0 +1,13 @@
+﻿Attempting to gather dependency information for package 'NUnit.3.8.1' with respect to project 'SeleniumTest', targeting '.NETFramework,Version=v4.5.2'
+Attempting to resolve dependencies for package 'NUnit.3.8.1' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'NUnit.3.8.1'
+Resolved actions to install package 'NUnit.3.8.1'
+Removed package 'NUnit.2.6.4' from 'packages.config'
+Successfully uninstalled 'NUnit.2.6.4' from SeleniumTest
+Adding package 'NUnit.3.8.1' to folder '\\anl-pri-f01p-p\private$\mitesh.vyas\documents\visual studio 2015\Projects\SeleniumTest\packages'
+Added package 'NUnit.3.8.1' to folder '\\anl-pri-f01p-p\private$\mitesh.vyas\documents\visual studio 2015\Projects\SeleniumTest\packages'
+Added package 'NUnit.3.8.1' to 'packages.config'
+Successfully installed 'NUnit 3.8.1' to SeleniumTest
+Removing package 'NUnit.2.6.4' from folder '\\anl-pri-f01p-p\private$\mitesh.vyas\documents\visual studio 2015\Projects\SeleniumTest\packages'
+Removed package 'NUnit.2.6.4' from folder '\\anl-pri-f01p-p\private$\mitesh.vyas\documents\visual studio 2015\Projects\SeleniumTest\packages'
+========== Finished ==========
